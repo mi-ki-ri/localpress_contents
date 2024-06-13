@@ -2,9 +2,11 @@
 
 ## 概要
 
-LocalPress にポストをアップロードするスクリプトです。
+ポストをアップロードするスクリプトです。
 
-posts フォルダの中の markdown ファイルを読み込み、LocalPress にポストをアップロードします。
+posts フォルダの中の markdown ファイルを読み込み、Strapi などの API にポストをアップロードします。
+
+upload 先は `content` フィールドです。
 
 ## 使い方
 

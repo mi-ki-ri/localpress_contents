@@ -1,0 +1,4 @@
+venv
+export_api_key.sh
+export_api_url.sh
+posts/**.md

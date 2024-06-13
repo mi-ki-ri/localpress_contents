@@ -6,6 +6,8 @@
 
 posts フォルダの中の markdown ファイルを読み込み、Strapi などの API にポストをアップロードします。
 
+-> 現在は、MicroCMS にアップロードする設定になっています。
+
 upload 先は `content` フィールドです。
 
 ## 使い方

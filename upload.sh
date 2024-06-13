@@ -13,4 +13,4 @@ fi
 
 . ./export_api_url.sh
 . ./export_api_key.sh
-python upload.py
+python microcms.py
